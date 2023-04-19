@@ -29,10 +29,10 @@
   right: 5px;
   bottom: 5px;
   left: 5px;
-  background: url(../../assets//2.PNG);
+  background: url(../../assets//profile1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: inherit;
   mix-blend-mode: multiply;
   animation: blobber 30s 0s ease-in-out infinite,
     wobbler 15s 0s linear infinite alternate;
