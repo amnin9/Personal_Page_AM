@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Personal_Page_AM/static/css/main.bcd5bd0d.css",
+    "main.js": "/Personal_Page_AM/static/js/main.ee9d715e.js",
+    "static/media/profile1.jpg": "/Personal_Page_AM/static/media/profile1.671c59e412738e114871.jpg",
+    "static/media/profile2.jpg": "/Personal_Page_AM/static/media/profile2.3f89e56fe23d75fcf5ab.jpg",
+    "static/media/CV.pdf": "/Personal_Page_AM/static/media/CV.8111fdc3a7603158e14a.pdf",
+    "static/media/cory-house.jpg": "/Personal_Page_AM/static/media/cory-house.e0c5315ac46e22c561db.jpg",
+    "static/media/anonymous.jpg": "/Personal_Page_AM/static/media/anonymous.d8ed5edec43c3cf29c3e.jpg",
+    "static/media/logo-1.png": "/Personal_Page_AM/static/media/logo-1.fe48c95ae17d747e6ffe.png",
+    "static/media/logo-2.png": "/Personal_Page_AM/static/media/logo-2.2762a6497ff4a98d679a.png",
+    "static/media/steve-jobs.jpg.cf.jpg": "/Personal_Page_AM/static/media/steve-jobs.jpg.cf.50cf8c95c846d0ec8446.jpg",
+    "static/media/bscene3.svg": "/Personal_Page_AM/static/media/bscene3.5819848c69af6df3d3a5.svg",
+    "index.html": "/Personal_Page_AM/index.html",
+    "static/media/circle2.svg": "/Personal_Page_AM/static/media/circle2.1f8151cc809d85caf1ac.svg",
+    "static/media/circle.svg": "/Personal_Page_AM/static/media/circle.91e7f9fbdf3816f4f3fa.svg",
+    "main.bcd5bd0d.css.map": "/Personal_Page_AM/static/css/main.bcd5bd0d.css.map",
+    "main.ee9d715e.js.map": "/Personal_Page_AM/static/js/main.ee9d715e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcd5bd0d.css",
+    "static/js/main.ee9d715e.js"
+  ]
+}
